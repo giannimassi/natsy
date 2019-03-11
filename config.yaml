@@ -1,0 +1,5 @@
+url: demo.nats.io
+subject: foo
+message: "Hello, world."
+timeout: 500ms
+request: false
